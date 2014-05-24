@@ -1,7 +1,7 @@
-The-Witcher-2-Issues
+The Witcher 2 Issues
 ====================
 
-Github page used for tracking issues related to the Witcher 2 on Linux.
+**Unofficial** Github page used for tracking issues related to the Witcher 2 on Linux.
 
 Instructions
 ------------
